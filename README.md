@@ -1,6 +1,7 @@
 # Atliq-Grands-Hospitality-Project
-Atliq Grands, a prominent hotel chain across Hyderabad, Bangalore, Delhi, and Mumbai, is facing challenges with declining revenue and market share. To reverse this trend, the business manager is seeking a Data Analyst to drive data-oriented management decisions.
-In my project, I used Jupyter Notebook to process data from 5 different files, enabling a deep dive into the company's performance. Here’s how I tackled the challenge:
+Atliq Grands, a prominent hotel chain across Hyderabad, Bangalore, Delhi, and Mumbai, is facing challenges with declining revenue and market share. 
+To reverse this trend, the business manager is seeking a Data Analyst to drive data-oriented management decisions.
+#In my project, I used Jupyter Notebook to process data from 5 different files, enabling a deep dive into the company's performance. Here’s how I tackled the challenge:
 📊 Data Analysis with Pandas:
 Loaded data using pd.read_csv() from multiple sources
 Cleaned and transformed data with methods like dropna(), fillna(), and apply()
